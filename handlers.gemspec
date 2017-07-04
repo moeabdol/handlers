@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Handlers::VERSION
   s.authors     = ["moeabdol"]
   s.email       = ["mohd.a.saed@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Handlers."
-  s.description = "TODO: Description of Handlers."
+  s.homepage    = ""
+  s.summary     = "Summary of Handlers."
+  s.description = "Description of Handlers."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
