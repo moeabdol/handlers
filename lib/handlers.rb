@@ -1,3 +1,6 @@
+require "action_view/template"
+
+ActionView::Template.register_template_handler :rb, :source.to_proc
+
 module Handlers
-  # Your code goes here...
 end
